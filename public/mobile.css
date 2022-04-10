@@ -1,0 +1,431 @@
+@media (max-width: 575.98px) {  
+
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../src/fonts/Poppins-Medium.ttf);
+   
+}
+#app {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 1000;
+    color: #2c3e50;
+    }  
+
+#Header .logo-syntop {
+    width: 135px;
+    height: 37px;
+}
+
+/* Banner */
+#Banner .banner-syntop {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+#Banner h2{
+    font-size: 48px;
+}
+
+#Banner h2 span{
+    color: #FF3D47;
+}
+
+#Banner p{
+    font-size: 18px;
+}
+
+/* Kategori */
+#Kategori .logo-kategori {
+    width: auto;
+    height: 82px;
+    margin: 15px 15px 15px 15px;
+   
+    
+}
+
+#Kategori h2{
+    text-align: center;
+}
+
+/* Slider */
+
+#Slider .fa-arrow-circle-left{
+    width: 40px;
+    height: 40px;
+    margin-right: 100%;
+    color: #FF3D47;
+    background-color: azure;
+    border-radius: 100%;
+}
+
+#Slider .fa-arrow-circle-right{
+    width: 40px;
+    height: 40px;
+    margin-left: 100%;
+    color: #FF3D47;
+    background-color: azure;
+    border-radius: 100%;
+}
+
+#Slider .carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+}
+
+/* rekomendasi */
+#Rekomendasi h3{
+    font-size: 35px;
+}
+
+#Rekomendasi .lihatsemua {
+    font-size: 20px;
+}
+
+#Rekomendasi .fa-eye {
+    color:#FF3D47;
+}
+
+#Rekomendasi .card-title {
+    text-align: center;
+}
+#Rekomendasi .card-text {
+    text-align: center;
+}
+#Rekomendasi .btn-primary {
+    border-color: #FF3D47;
+    background-color: #FF3D47;
+}
+
+#Rekomendasi .card-img-top {
+    width: 100%;
+    height: 232px;
+    object-fit: contain;
+    
+}
+#Rekomendasi .card-text {
+    color: #9F9F9F;
+    
+}
+
+/*Aksesoris */
+#Aksesoris h3 {
+    font-size: 20px;
+}
+#Aksesoris .lihatsemua {
+    font-size: 20px;
+}
+#Aksesoris .fa-eye {
+    color:#FF3D47;
+
+}
+#Aksesoris img{
+    width: 95px;
+    height: auto;
+}
+
+#Aksesoris .card {
+    width: 100%;
+    height: auto;
+    padding-top: 30px ;
+}
+
+#Aksesoris .img-fluid {
+    object-fit: contain;
+
+}
+
+/* Breadcrumb */
+#Breadcrumb a{
+    text-decoration: none;
+}
+#Breadcrumb .fa-home{
+    color: #FF3D47;
+}
+
+#Breadcrumb h3{
+    font-size: 19px;
+}
+
+#Breadcrumb .fa-search {
+    color:  #9F9F9F;
+}
+
+/* Teratas */
+#Teratas .lihatsemua {
+    font-size: 20px;
+}
+#Teratas .fa-eye{
+    color: #FF3D47;
+}
+#Teratas .btn-primary {
+    border-color: #FF3D47;
+    background-color: #FF3D47;
+}
+
+/* Aksesoris2 */
+#Aksesoris2 .card-img-top {
+    width: 205px;
+    height: 205px;
+    object-fit: contain;
+    display: block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+}
+#Aksesoris2 .btn-primary {
+    background-color: #FF3D47;
+    border-color: #FF3D47;
+}
+
+/* Breadcrumb2 */
+#Breadcrumb2 .fa-arrow-circle-left {
+    color: #FF3D47;
+}
+#Breadcrumb2 h3{
+    color: black;
+    font-size: 19px; ;
+}
+
+/*Detail Product */
+#DetailProduct .carousel-control-prev {
+    color: #FF3D47;
+   
+   
+}
+#DetailProduct .carousel-control-next {
+    color: #FF3D47;
+    
+}
+#DetailProduct .Specs {
+    font-size: 18px;
+    color: #000000;
+}
+#DetailProduct h3 span {
+    color: #9B9696;
+}
+#DetailProduct h3{
+    color: #FF3D47;
+}
+#DetailProduct h4{
+    font-size: 18px;
+    color: #000000;
+}
+#DetailProduct h2{
+    color: #000000;
+}
+#DetailProduct .btn-danger1{
+    background-color: white;
+    border-color: #FF3D47;
+    margin-right: 5px;
+}
+#DetailProduct .nav-link1{
+    color: #FF3D47;
+}
+#DetailProduct input {
+    width: 50px;
+    height: auto;
+}
+
+
+/* RekomendasiProdDetail*/
+#RekomendasiProdDetail .btn-primary{
+    background-color: #FF3D47;
+    border-color: #FF3D47;
+}
+
+/*Header2*/
+#Header2 .btn-danger {
+    background-color: white;
+    color: #FF3D47;
+}
+#Header2 .logo-syntop {
+    width: 135px;
+    height: 37px;
+}
+
+/*Breadcrumb3*/
+#Breadcrumb3 .fa-arrow-circle-left {
+    color: #FF3D47;
+}
+#Breadcrumb3 h3{
+    color: black;
+    font-size: 19px; ;
+}
+
+
+#Breadcrumb4 .fa-arrow-circle-left{
+    color: #FF3D47;
+}
+
+#TabelKeranjang img {
+    width: auto;
+    height: 128px;
+}
+
+#TabelKeranjang .btn-green{
+    background-color: #16FF73;
+    color: white;
+}
+
+#TabelKeranjang h3{
+    color: #000000;
+    font-size: 16px;
+  
+}
+#TabelKeranjang .nav-linkcheckout{
+    margin-left: 80%;
+}
+
+#TabelKeranjang .harganya {
+    margin-left: 60%;
+}
+#TabelKeranjang .totalharga{
+    margin-left: 50%;
+}
+
+.fa-circle{
+    color: #16FF73;
+}
+
+
+/* Footer */
+#Footer .bg-footer {
+    background: linear-gradient(90deg, #FF3D47 0%, #346BBE 100%);
+    width: 100%;
+    height: auto;
+    color: white;
+    padding-top: 5px;
+}
+
+#DetailProduct .bg-detail-product{
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+border-radius: 20px;
+width: auto;
+height: auto;
+}
+
+#KosongKeranjang .fa-arrow-circle-left {
+    color: #FF3D47;
+}
+#KosongKeranjang h3{
+    color: black;
+    font-size: 19px; ;
+}
+#KosongKeranjang .keranjangnyakosong{
+    width: 543px;
+    height: 543px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+}
+#KosongKeranjang .btn-danger{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+#IsiCheckout .checkoutlaptop{
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+    top: 50%;
+    left: 50%;
+}
+#IsiCheckout .form-control{
+    width: 350px;
+    display: inline;
+  
+}
+#IsiCheckout .form-number{
+    margin-left: 10px;
+    width: 100px;
+
+}
+#IsiCheckout h2{
+    color: #000000;
+}
+#IsiCheckout h3{
+    color: #000000;
+}
+#IsiCheckout p{
+    color: #000000;
+    font-weight: normal;
+}
+
+
+
+
+#PengirimanDanPembayaran .logomandiri{
+    width: 81px;
+    height: auto;
+}
+#PengirimanDanPembayaran h3{
+    color: #000000;
+}
+#PengirimanDanPembayaran h4{
+    color: #000000;
+}
+#PengirimanDanPembayaran p{
+    color: #000000;
+}
+#PengirimanDanPembayaran .totalharga{
+    color: #9F9F9F;
+}
+#PengirimanDanPembayaran .hargatotal{
+    color: #9F9F9F;
+}
+#PengirimanDanPembayaran .hargatotallagi {
+ color: #FF3D47;   
+}
+
+.fa-arrow-circle-left {
+    color: #FF3D47;
+}
+
+.fa-exclamation-circle{
+    color: #FED811;
+    width: 38px;
+    height: 38px;
+}
+
+
+#DetailUploadBuktiBayar .contohdetail{
+    color: #9F9F9F;
+}
+
+#UploadFotoBayar .fa-image{
+    width: 90px;
+    height: 70px;
+    padding-top: 10px;
+    color: #9F9F9F;
+}
+
+#TabelKeranjang td{
+    padding-top: 50px;
+}
+
+label {
+    background-color: #16FF73;
+  color: white;
+  padding: 0.5rem;
+  font-family: sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+#UploadFotoBayar p{
+    color: #9F9F9F;
+}
+
+#IsiSukses .fotosukses {
+    width: 543px;
+    height: 543px;
+    
+} }
