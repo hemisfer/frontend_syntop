@@ -10,7 +10,7 @@
                   <br>
                   <p>bukti_transfer.JPG</p>
                   <input type="file" id="upload" hidden/>
-                    <label for="upload">Pilih Gambar</label>
+                 <a href="#/sukses">  <label for="upload">Pilih Gambar</label></a> 
 
               </div>
           </div>

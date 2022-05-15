@@ -6,7 +6,7 @@
         <h2>Laptop <span>Masa Depan</span> </h2>
         <p>Layar 14 inch Bezel Tipis dengan Resolusi Display 4K <br>
              Panel IPS dan Touchscreen. </p>
-        <a class="nav-link" href="#"><div class="btn btn-danger">+ Keranjang</div></a>
+        <a class="nav-link" href="#/keranjang"><div class="btn btn-danger">+ Keranjang</div></a>
         
     </div>
 <div class="col-lg-6" >

@@ -3,7 +3,7 @@
   <div class="container"> 
       <div class="row mt-4"> 
           <div class="col"> 
-              <h3> <a href="#"><i class="fas fa-arrow-circle-left"></i></a> <strong> Upload Bukti Pembayaran </strong></h3>
+              <h3> <a href="#/checkout"><i class="fas fa-arrow-circle-left"></i></a> <strong> Upload Bukti Pembayaran </strong></h3>
           </div>
       </div>
       

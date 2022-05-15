@@ -26,8 +26,14 @@ const routes = [
     name: 'ListProduct',
     component: ListProduct
   },
+  // {
+  //   path: '/productdetail',
+  //   name: 'ProductDetail',
+  //   component: ProductDetail
+  // },
+
   {
-    path: '/productdetail',
+    path: '/productdetail/:id',
     name: 'ProductDetail',
     component: ProductDetail
   },

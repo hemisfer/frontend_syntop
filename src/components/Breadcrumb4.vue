@@ -3,7 +3,7 @@
   <div class="container"> 
       <div class="row mt-4"> 
           <div class="col"> 
-              <h3> <a href="#"><i class="fas fa-arrow-circle-left"></i></a> <strong> Checkout </strong></h3>
+              <h3> <a href="#/keranjang"><i class="fas fa-arrow-circle-left"></i></a> <strong> Checkout </strong></h3>
           </div>
       </div>
       

@@ -57,7 +57,7 @@
       </div>
       <div class="row mt-3">
           <div class="col">
-      <a class="nav-linkcheckout" href="#"><div class="btn btn-green"><i class="fas fa-arrow-circle-right"></i> Checkout</div></a>
+      <a class="nav-linkcheckout" href="#/checkout"><div class="btn btn-green"><i class="fas fa-arrow-circle-right"></i> Checkout</div></a>
               
               </div>
       </div>

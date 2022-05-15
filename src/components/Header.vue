@@ -8,9 +8,9 @@
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active m-auto" aria-current="page" href="#">Home</a>
-        <a class="nav-link m-auto" href="#">Laptop & Accesories </a>
-        <a class="nav-link" href="#"><div class="btn btn-danger"><i class="fas fa-cart-plus"></i> Keranjang</div></a>
+        <a class="nav-link active m-auto" aria-current="page" href="#">Homes</a>
+        <a class="nav-link m-auto" href="#/listproduct">Laptop & Accesories </a>
+        <a class="nav-link" href="#/keranjang"><div class="btn btn-danger"><i class="fas fa-cart-plus"></i> Keranjang</div></a>
 
       </div>
     </div>

@@ -8,7 +8,7 @@
   <div class="card-body">
     <h5 class="card-title">RAM DDR3 4GB</h5>
     <p class="card-text">Rp. 210.000</p>
-    <a href="#" class="btn btn-primary">+ Keranjang</a>
+    <a href="#/keranjang" class="btn btn-primary">+ Keranjang</a>
   </div>
 </div>
   </div>
@@ -18,7 +18,7 @@
   <div class="card-body">
     <h5 class="card-title">RAM DDR3 8GB</h5>
     <p class="card-text">Rp. 340.000</p>
-    <a href="#" class="btn btn-primary">+ Keranjang</a>
+    <a href="#/keranjang" class="btn btn-primary">+ Keranjang</a>
   </div>
   </div>
 </div>
@@ -28,7 +28,7 @@
   <div class="card-body">
     <h5 class="card-title">SSD M.2 128GB</h5>
     <p class="card-text">Rp. 400.000</p>
-    <a href="#" class="btn btn-primary">+ Keranjang</a>
+    <a href="#/keranjang" class="btn btn-primary">+ Keranjang</a>
   </div>
 </div>
   </div>
@@ -38,7 +38,7 @@
   <div class="card-body">
     <h5 class="card-title">SSD M.2 256GB</h5>
     <p class="card-text">Rp. 750.000</p>
-    <a href="#" class="btn btn-primary">+ Keranjang</a>
+    <a href="#/keranjang" class="btn btn-primary">+ Keranjang</a>
   </div>
 </div>
   </div>

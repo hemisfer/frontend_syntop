@@ -90,7 +90,7 @@
       </div>
       <div class="row mt-4">
         <div class="col-lg-2">
-          <button type="button" class="btn btn-success">Bayar</button>
+         <a href="#/uploadbuktibayar"> <button type="button" class="btn btn-success">Bayar</button></a>
         </div>
       </div>
     </div>

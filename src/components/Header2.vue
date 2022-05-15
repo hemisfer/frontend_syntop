@@ -9,8 +9,8 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active m-auto" aria-current="page" href="#">Home</a>
-        <a class="nav-link m-auto" href="#">Laptop & Accesories </a>
-        <a class="nav-link" href="#"><div class="btn btn-danger"> Kembali</div></a>
+        <a class="nav-link m-auto" href="#/listproduct">Laptop & Accesories </a>
+        <a class="nav-link" href="#/productdetail"><div class="btn btn-danger"> Kembali</div></a>
 
       </div>
     </div>

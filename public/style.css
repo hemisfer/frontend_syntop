@@ -36,7 +36,7 @@
 }
 
 /* Kategori */
-#Kategori .logo-kategori {
+#Kategori, #Teratas .logo-kategori {
     width: auto;
     height: 82px;
     margin: 15px 15px 15px 15px;
